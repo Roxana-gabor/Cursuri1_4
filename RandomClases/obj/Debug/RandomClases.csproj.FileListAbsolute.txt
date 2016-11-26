@@ -1,0 +1,7 @@
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\RandomClases\bin\Debug\RandomClases.dll
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\RandomClases\bin\Debug\RandomClases.pdb
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\RandomClases\bin\Debug\UbbCourse1.exe
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\RandomClases\bin\Debug\UbbCourse1.pdb
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\RandomClases\obj\Debug\RandomClases.csprojResolveAssemblyReference.cache
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\RandomClases\obj\Debug\RandomClases.dll
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\RandomClases\obj\Debug\RandomClases.pdb

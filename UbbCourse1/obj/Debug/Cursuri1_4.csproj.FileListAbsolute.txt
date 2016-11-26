@@ -1,0 +1,9 @@
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\UbbCourse1\bin\Debug\UbbCourse1.exe.config
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\UbbCourse1\bin\Debug\UbbCourse1.exe
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\UbbCourse1\bin\Debug\UbbCourse1.pdb
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\UbbCourse1\obj\Debug\Cursuri1_4.csprojResolveAssemblyReference.cache
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\UbbCourse1\obj\Debug\UbbCourse1.exe
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\UbbCourse1\obj\Debug\UbbCourse1.pdb
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\Cursuri1_4\UbbCourse1\bin\Debug\UbbCourse1.exe.config
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\Cursuri1_4\UbbCourse1\obj\Debug\UbbCourse1.exe
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\Cursuri1_4\UbbCourse1\obj\Debug\UbbCourse1.pdb

@@ -1,0 +1,6 @@
+c:\users\roxana\documents\visual studio 2015\Projects\UbbCourse1\UbbCourse1\bin\Debug\UbbCourse1.exe.config
+c:\users\roxana\documents\visual studio 2015\Projects\UbbCourse1\UbbCourse1\bin\Debug\UbbCourse1.exe
+c:\users\roxana\documents\visual studio 2015\Projects\UbbCourse1\UbbCourse1\bin\Debug\UbbCourse1.pdb
+c:\users\roxana\documents\visual studio 2015\Projects\UbbCourse1\UbbCourse1\obj\Debug\UbbCourse1.exe
+c:\users\roxana\documents\visual studio 2015\Projects\UbbCourse1\UbbCourse1\obj\Debug\UbbCourse1.pdb
+C:\Users\Roxana\Documents\Visual Studio 2015\Projects\UbbCourse1\UbbCourse1\obj\Debug\UbbCourse1.csprojResolveAssemblyReference.cache
